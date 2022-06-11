@@ -1,8 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  justify-content: center;
+}
 /* Style the header */
 header {
-  background-color: #363;
-  /* padding: 5px; */
-
+  border-top: 2px solid #ffff00;
+  padding-top: 2em;
+  text-align: center;
+  background-color: #292777;
   font-size: 18px;
-  color: white;
+  color: #d3d58a;
+}
+header a {
+  color: #d3d58a;
+}
+/* #d3d58a : #292777 */
+
+.main {
+  background-color: #d3d58a;
+  color: #292777;
+  border-top: 2px solid #ffff00;
+  padding-top: 2em;
+  text-align: center;
+  padding-bottom: 2em;
+}
+.work {
+  border-top: 2px solid #ffff00;
+  padding-top: 2em;
+  text-align: center;
+  padding-bottom: 2em;
 }
