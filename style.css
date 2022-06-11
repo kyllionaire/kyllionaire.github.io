@@ -1,0 +1,8 @@
+/* Style the header */
+header {
+  background-color: #363;
+  /* padding: 5px; */
+
+  font-size: 18px;
+  color: white;
+}
